@@ -1,6 +1,8 @@
 # PGVTON — Official Implementation
 Hi,this is our new work about virtual try-on: PG-VTON. 
-Since this paper has not published officially, we do not provide its code and pre-trained model now. Instead, we shows cases of PGVTON and hope things go well.
+This paper has been published on TMM.
+Sorry, I am going to graduate, there are too many important things needed to do for me.
+After everything is ok, I will clear up this code and release it as soon as possible.
 ## Many-to-many virtual try-on
 ![](https://github.com/NerdFNY/PGVTON/blob/main/fig1.png)
 ## More random try-on cases
